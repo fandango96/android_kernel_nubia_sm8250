@@ -27,7 +27,7 @@ KERNEL_DIR=`pwd`
 ZIMAGE_DIR="out-clang/arch/arm64/boot/"
 
 # Kernel Details
-VER="-v3.2"
+VER="-v3.3"
 
 # Vars
 BASE_AK_VER="ALI_fandango-RM5S"
